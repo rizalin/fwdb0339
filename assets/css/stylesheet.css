@@ -1,0 +1,30 @@
+/*ini komen*/
+body {
+    background-color: moccasin;
+    padding-top: 30px;
+    font-size: 20px;
+    
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color: maroon    
+}
+ul {
+    color: blue
+}
+ol {
+    color: darkblue
+}
+a {
+    color: green;
+    text-decoration: none;
+}
