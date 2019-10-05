@@ -1,0 +1,76 @@
+.pad-1 {
+    padding: 24px;
+    margin: 40px;
+    background-color: beige;
+    border: 5px solid brown;
+}
+.pad-1 p {
+    
+}
+.fixed {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: darkblue;
+}
+.pad-2 {
+   height: 500px;
+   margin-block-end: 30px;
+}
+.ins-1 {
+    background-color: aqua;
+    width: 30%;
+    float: left;
+    height: 500px;
+}
+.ins-2 {
+    width: 40%;
+    height: 500px;
+    float: left;
+    background-color: red;
+}
+.ins-1a {
+    width: 30%;
+    height: 500px;
+    float: right;
+    background-color: aqua;
+
+}
+.pad-3 {
+    position: relative;
+    float: left;
+    height: 500px;
+    width: 40%;
+    background-color: yellow;
+}
+.pad-4 {
+    position: relative;
+    float: left;
+    height: 500px;
+    width: 60%;
+    background-color: violet;
+}
+.ins-3a {
+    position: absolute;
+    background-color: green;
+    border: 5px solid brown;
+    margin-left: 25px;
+    margin-right: 25px;
+    top: 25px;
+    width: 80%;
+    height: 200px;
+}
+.ins-3b {
+    position: absolute;
+    background-color: green;
+    border: 5px solid brown;
+    margin-left: 25px;
+    margin-right: 25px;
+    bottom: 20px;
+    width: 80%;
+    height: 200px;
+    
+}
